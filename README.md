@@ -3,7 +3,7 @@
 
 Download RDA jar files at rda-jar directory, please.
 
-Please visit Version Zero Maker
+Please visit Version Zero Maker for User's Manual.
 
 https://www.versionzero.maker
 
